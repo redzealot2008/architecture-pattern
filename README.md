@@ -8,3 +8,5 @@
 
 ## 整体
 [从MVC到前后端分离](https://www.cnblogs.com/iOS-mt/p/5667428.html)
+[Java Web开发中前后端分离的技术方案和优缺点](http://blog.csdn.net/neosmith/article/details/49472775)
+[Web 研发模式演变](https://github.com/lifesinger/blog/issues/184)
